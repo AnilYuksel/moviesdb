@@ -158,18 +158,6 @@
     },
     {
       "id": 14,
-      "categoryId":4,
-      "name": "The Ice Age Adventures of Buck Wild",
-      "rating": 7.3,
-      "overview":"The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck's home: The Dinosaur World.",
-      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
-      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
-      "date": "01/28/2022",
-      "director":"John C. Donkin",
-      "trailer":"https://www.youtube.com/embed/0U0L4uT0btQ"
-    },
-    {
-      "id": 15,
       "categoryId":3,
       "name": "Dune",
       "rating": 7.9,
