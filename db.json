@@ -143,18 +143,6 @@
       "date": "11/19/2021",
       "director":"Jason Reitman",
       "trailer":"https://www.youtube.com/embed/ahZFCF--uRY"
-    },
-    {
-      "id": 13,
-      "categoryId":1,
-      "name": "Eternals",
-      "rating": 7.2,
-      "overview":"The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
-      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
-      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
-      "date": "11/05/2021",
-      "director":"Chloé Zhao",
-      "trailer":"https://www.youtube.com/embed/x_me3xsvDgk"
     }
   ],
   "categories":
