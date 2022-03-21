@@ -110,18 +110,6 @@
     },
     {
       "id": 10,
-      "categoryId":1,
-      "name": "Spider-Man 3",
-      "rating": 6.3,
-      "overview":"The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
-      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
-      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
-      "date": "05/03/2007",
-      "director":"Sam Raimi",
-      "trailer":"https://www.youtube.com/embed/wPosLpgMtTY"
-    },
-    {
-      "id": 11,
       "categoryId":6,
       "name": "The Twilight Saga: Eclipse",
       "rating": 6.3,
@@ -133,7 +121,7 @@
       "trailer":"https://www.youtube.com/embed/kX2DKZcDM-o"
     },
     {
-      "id": 12,
+      "id": 11,
       "categoryId":7,
       "name": "Dragon Fury",
       "rating": 6.3,
@@ -145,7 +133,7 @@
       "trailer":"https://www.youtube.com/embed/kp_iCBrjeKA"
     },
     {
-      "id": 13,
+      "id": 12,
       "categoryId":6,
       "name": "Ghostbusters: Afterlife",
       "rating": 7.7,
@@ -157,7 +145,7 @@
       "trailer":"https://www.youtube.com/embed/ahZFCF--uRY"
     },
     {
-      "id": 14,
+      "id": 13,
       "categoryId":1,
       "name": "Eternals",
       "rating": 7.2,
@@ -169,7 +157,7 @@
       "trailer":"https://www.youtube.com/embed/x_me3xsvDgk"
     },
     {
-      "id": 15,
+      "id": 14,
       "categoryId":4,
       "name": "The Ice Age Adventures of Buck Wild",
       "rating": 7.3,
@@ -181,19 +169,7 @@
       "trailer":"https://www.youtube.com/embed/0U0L4uT0btQ"
     },
     {
-      "id": 16,
-      "categoryId":1,
-      "name": "Reacher",
-      "rating": 8.7,
-      "overview":"Jack Reacher was arrested for murder and now the police need his help. Based on the books by Lee Child.",
-      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
-      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg",
-      "date": "02/02/2022",
-      "director":"Nick Santora",
-      "trailer":"https://www.youtube.com/embed/GSycMV-_Csw"
-    },
-    {
-      "id": 17,
+      "id": 15,
       "categoryId":3,
       "name": "Dune",
       "rating": 7.9,
@@ -203,17 +179,6 @@
       "date": "10/22/2021",
       "director":"Denis Villeneuve",
       "trailer":"https://www.youtube.com/embed/8g18jFHCLXk"
-    },{
-      "id": 18,
-      "categoryId":7,
-      "name": "Queen of Spades",
-      "rating": 6.4,
-      "overview":"According to legend, an ominous entity known as the Queen of Spades can be summoned by performing an ancient ritual. Four teenagers summon the Queen of Spades, but they could never imagine the horrors that await them.",
-      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg",
-      "detailImgUrl":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg",
-      "date": "08/19/2021",
-      "director":"Patrick White",
-      "trailer":"https://www.youtube.com/embed/c3qKvgoLI8s"
     }
   ],
   "categories":
